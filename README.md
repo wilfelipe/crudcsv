@@ -1,8 +1,8 @@
-# crud-csv-java
+# crudcsv
 
 Installation
 ============
-This library read, search, alter and delete data from a CSV files.
+This Java library read, search, alter and delete data from a CSV files.
 
 Usage
 =====
