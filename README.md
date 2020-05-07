@@ -1,12 +1,12 @@
 # crudcsv
 
-Installation
+Introduction
 ============
 This Java library read, search, alter and delete data from a CSV files.
 
 Usage
 =====
-To use this library import download de Jar file and import in your project, or clone the source code in your project folder. And import the classes::
+To use this library download de Jar file and import in your project, or clone the source code in your project folder. And import the classes::
 
     import crudcsv.CrudCSV;
     import java.util.Map;
