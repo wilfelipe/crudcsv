@@ -19,7 +19,7 @@ Open the file:
     
     CrudCSV db = new CrudCSV("data1.csv");
     
-To search in the file and print all results (by default, the first column are the id column):
+To search in the file and print all results (by default, the first column are the PRIMARE_KEY Integer column):
     
     // Map<Integer, String[]> search(String column, String value)
     // Map<Integer, String[]> search(String column, int value)
