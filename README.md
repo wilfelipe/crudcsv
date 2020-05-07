@@ -6,7 +6,7 @@ This Java library read, search, alter and delete data from a CSV files.
 
 Usage
 =====
-To use this library download de Jar file and import in your project, or clone the source code in your project folder. And import the classes::
+To use this library download de Jar file and import in your project, or clone the source code in your project folder:
 
     import crudcsv.CrudCSV;
     import java.util.Map;
@@ -19,7 +19,7 @@ Open the file:
     
     CrudCSV db = new CrudCSV("data1.csv");
     
-To search in the file and print all results (by default, the first column are the PRIMARE_KEY Integer column):
+To search in the file and print all results (by default, the first column are the INTEGER PRIMARE_KEY column):
     
     // Map<Integer, String[]> search(String column, String value)
     // Map<Integer, String[]> search(String column, int value)
