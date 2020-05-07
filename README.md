@@ -48,6 +48,6 @@ Modifying a existing row:
  
 To delete a row:
 
-    //Boolean delete(int id)
+    // Boolean delete(int id)
     
     db.delete(1002);
